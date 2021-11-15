@@ -72,14 +72,14 @@ const Home2 = () => {
                   </td>
                 </tr>
               ))}
-            <tr class="active-row">
+            {/* <tr class="active-row">
               <td>Name</td>
               <td>Email</td>
               <td>Contact</td>
               <td>Address</td>
               <td>Action1</td>
               <td>Action2</td>
-            </tr>
+            </tr> */}
           </tbody>
         </table>
       </div>
